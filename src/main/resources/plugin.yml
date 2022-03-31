@@ -1,0 +1,6 @@
+name: FirstKotlinBukkitPlugin
+version: '${version}'
+main: io.github.twoquantumbits.firstkotlinbukkitplugin.KotlinFirst
+api-version: 1.18
+authors: [ 2qb ]
+description: First Bukkit (more precisely, Paper) plugin in Kotlin from 2qb.
